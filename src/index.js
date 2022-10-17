@@ -8,7 +8,7 @@ import './styles.css';
 export class App extends React.Component {
     constructor(props) {
         super(props);
-        this.people = ['Karl', 'Jes', 'Sam', 'Derek', 'Charles', 'John', 'Allan', 'Max', 'Zhou'];
+        this.people = ['Karl', 'Jes', 'Sam', 'Derek', 'Charles', 'John', 'Allan', 'Max', 'Zhou', 'Lisa'];
     }
 
     render() {
